@@ -1,0 +1,16 @@
+{
+    "name": "alainaissi/composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alainaissi",
+            "email": "alain-aissi_student2022@wilder.school"
+        }
+    ],
+    "require": {}
+}
